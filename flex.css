@@ -1,0 +1,21 @@
+.first,.second,.third{
+    width: 200px;
+    height: 300px;
+}
+.first{
+    background-color: red;
+}
+.second{
+    background-color: green;
+}
+.third{
+    background-color: gold;
+}
+.flex{
+    display: flex;
+    height: 500px;
+    background-color: blue;
+    justify-content: stretch;
+    flex-direction: row;
+    align-items: center;
+}
